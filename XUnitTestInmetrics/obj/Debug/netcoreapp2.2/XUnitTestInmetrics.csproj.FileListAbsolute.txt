@@ -1,0 +1,16 @@
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\testhost.exe
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\testhost.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\XUnitTestInmetrics.deps.json
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\XUnitTestInmetrics.runtimeconfig.json
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\XUnitTestInmetrics.runtimeconfig.dev.json
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\XUnitTestInmetrics.dll
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\XUnitTestInmetrics.csprojAssemblyReference.cache
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\XUnitTestInmetrics.csproj.CoreCompileInputs.cache
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\XUnitTestInmetrics.AssemblyInfoInputs.cache
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\XUnitTestInmetrics.AssemblyInfo.cs
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\XUnitTestInmetrics.pdb
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\XUnitTestInmetrics.dll
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\XUnitTestInmetrics.pdb

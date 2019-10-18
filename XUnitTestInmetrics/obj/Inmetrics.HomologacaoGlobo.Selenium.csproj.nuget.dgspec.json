@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\XUnitTestInmetrics\\Inmetrics.HomologacaoGlobo.Selenium.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\XUnitTestInmetrics\\Inmetrics.HomologacaoGlobo.Selenium.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\XUnitTestInmetrics\\Inmetrics.HomologacaoGlobo.Selenium.csproj",
+        "projectName": "Inmetrics.HomologacaoGlobo.Selenium",
+        "projectPath": "C:\\Projetos\\XUnitTestInmetrics\\Inmetrics.HomologacaoGlobo.Selenium.csproj",
+        "packagesPath": "C:\\Users\\Família\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\XUnitTestInmetrics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Família\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Selenium.Firefox.WebDriver": {
+              "target": "Package",
+              "version": "[0.24.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[77.0.3865.4000, )"
+            },
+            "Selenium.WebDriver.IEDriver": {
+              "target": "Package",
+              "version": "[3.150.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "SpecFlow.xUnit": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

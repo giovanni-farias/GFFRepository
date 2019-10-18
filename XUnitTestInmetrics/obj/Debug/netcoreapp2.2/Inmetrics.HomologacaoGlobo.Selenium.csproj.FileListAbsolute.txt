@@ -1,0 +1,17 @@
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\testhost.exe
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\testhost.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.deps.json
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.runtimeconfig.json
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.runtimeconfig.dev.json
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.dll
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.pdb
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.csprojAssemblyReference.cache
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.csproj.CoreCompileInputs.cache
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.AssemblyInfoInputs.cache
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.AssemblyInfo.cs
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.dll
+C:\Projetos\XUnitTestInmetrics\obj\Debug\netcoreapp2.2\Inmetrics.HomologacaoGlobo.Selenium.pdb
+C:\Projetos\XUnitTestInmetrics\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
